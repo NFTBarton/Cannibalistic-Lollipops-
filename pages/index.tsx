@@ -54,7 +54,7 @@ const StakePage = () => {
       <img sx={{ maxHeight: "20rem", }} src="/images/logo2.png" alt="Gemworks" />
         {/*<Heading>Your staking account</Heading>
         <Text>Below you can stake, unstake and collect rewards.</Text>*/}
-
+<WalletManager />
         {!publicKey ? (
           /** Render nothing if there is no wallet connected. */
           <Text
