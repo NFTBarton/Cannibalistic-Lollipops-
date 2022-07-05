@@ -33,24 +33,24 @@ const Header = ({ farmId, setFarmId }: Props) => {
           }}
           p=".8rem"
         >
-          /*<Link href="/" passHref>
+          <Link href="/" passHref>
             <Flex as="a" sx={{ alignItems: "center", flexDirection: "column" }}>
               <Flex sx={{ alignItems: "center" }}>
-                <Text as="h1" variant="headingSpecial" ml=".4rem">
+                /*<Text as="h1" variant="headingSpecial" ml=".4rem">
                   GEM
-                </Text>
+                </Text>*/
 
-                <img
+               /* <img
                   sx={{
                     maxHeight: "4.8rem",
                   }}
                   src="/images/gemtransparent.gif"
                   alt="Gemworks"
-                />
+                />*/
 
-                <Text as="h1" variant="headingSpecial" ml=".4rem">
+                /*<Text as="h1" variant="headingSpecial" ml=".4rem">
                   FARM
-                </Text>
+                </Text>*/
               </Flex>
               {/* <Text
                 sx={{
@@ -62,7 +62,7 @@ const Header = ({ farmId, setFarmId }: Props) => {
               </Text> */}
             </Flex>
           </Link>
-          <Text
+          /*<Text
             variant="small"
             sx={{
               marginRight: "auto",
