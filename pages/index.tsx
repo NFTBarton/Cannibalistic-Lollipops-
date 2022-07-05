@@ -72,7 +72,7 @@ const StakePage = () => {
               margin: "3.2rem 0",
             }}
           >
-            .
+            
           </Text>
         ) : !farmerAccount ? (
           // <LoadingIcon
