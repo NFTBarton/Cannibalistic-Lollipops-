@@ -156,7 +156,7 @@ const Header = ({ farmId, setFarmId }: Props) => {
 
             <WalletManager />
           </Flex>
-          <Button
+          /*<Button
             sx={{
               padding: ".8rem",
               "@media(min-width: 768px)": {
@@ -166,7 +166,7 @@ const Header = ({ farmId, setFarmId }: Props) => {
             onClick={() => setIsMobileMenuActive(true)}
           >
             <MenuIcon />
-          </Button>
+          </Button>*/
         </Flex>
       </Container>
     </Flex>
