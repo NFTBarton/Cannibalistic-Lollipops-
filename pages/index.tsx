@@ -50,7 +50,7 @@ const StakePage = () => {
           padding: "0 1.6rem",
         }}
       >
-      <img sx={{ maxHeight: "4.8rem", }} src="/images/gemtransparent.gif" alt="Gemworks" />
+      <img sx={{ maxHeight: "4.8rem", }} src="/images/logo1.png" alt="Gemworks" />
         <Heading>Your staking account</Heading>
         <Text>Below you can stake, unstake and collect rewards.</Text>
 
