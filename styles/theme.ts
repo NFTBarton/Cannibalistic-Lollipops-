@@ -22,7 +22,7 @@ export const getGradient = (rgb: string) => {
 const theme: Theme = {
   ...base,
   colors: {
-    background: "rgba(190,212,253,255)",
+    background: "rgba(114,67,155,255)",
     text: "rgb(226, 217, 211)",
     primary: "rgb(48, 114, 180, .7)",
     primaryGradient: getGradient("rgb(48, 114, 180, .7)"),
