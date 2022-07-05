@@ -40,7 +40,7 @@ const StakePage = () => {
 
   return (
     <Container>
-      <Header farmId={farmId} setFarmId={setFarmId} />
+      {/*<Header farmId={farmId} setFarmId={setFarmId} />*/}
 
       <Flex
         sx={{
