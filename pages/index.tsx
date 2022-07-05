@@ -4,6 +4,7 @@ import { Flex, Text, Heading, Spinner, Button, Container } from "theme-ui"
 import CollectionItem from "@/components/CollectionItem/CollectionItem"
 import useGemFarmStaking from "hooks/useGemFarmStaking"
 import { useWallet } from "@solana/wallet-adapter-react"
+import WalletManager from "@/components/WalletManager/WalletManager"
 // import { LoadingIcon } from "@/components/icons/LoadingIcon"
 
 import { Tab, Tabs, TabList, TabPanel } from "react-tabs"
