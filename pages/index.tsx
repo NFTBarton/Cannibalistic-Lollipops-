@@ -65,6 +65,7 @@ const StakePage = () => {
           >
             Connect your wallet to access the vault.
           </Text>
+      <WalletManager />
         ) : !farmerAccount ? (
           // <LoadingIcon
           //   size={"3.2rem"}
