@@ -66,14 +66,14 @@ const StakePage = () => {
         {!publicKey ? (
           /** Render nothing if there is no wallet connected. */
           
-      {/*<Text
+      <Text
             sx={{
               textAlign: "center",
               margin: "3.2rem 0",
             }}
           >
-            Connect your wallet to access the vault.
-          </Text>*/}
+            .
+          </Text>
         ) : !farmerAccount ? (
           // <LoadingIcon
           //   size={"3.2rem"}
