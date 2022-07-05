@@ -34,7 +34,7 @@ const theme: Theme = {
     //     background: "rgb(226, 217, 211)",
     //     text: "rgb(4, 4, 3)",
     //     primary: "rgb(48, 114, 180, .7)",
-    //     primaryGradient: getGradient("rgb(48, 114, 180, .7)"),
+    //     primaryGradient: getGradient("rgba(255, 0, 0,0)"),
     //     heading: "#1E1E24",
     //     background2: "#1E1E24",
     //     backgroundGradient: getGradient("rgb(226, 217, 211)")
