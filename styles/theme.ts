@@ -24,7 +24,7 @@ const theme: Theme = {
   colors: {
     background: "rgba(114,67,155,255)",
     text: "rgb(226, 217, 211)",
-    primary: "rgb(48, 114, 180, .7)",
+    primary: "rgb(255, 0, 0,)",
     primaryGradient: getGradient("rgb(48, 114, 180, .7)"),
     heading: "rgb(226, 217, 211)",
     background2: "#1E1E24",
