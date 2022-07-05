@@ -33,7 +33,7 @@ const Header = ({ farmId, setFarmId }: Props) => {
           }}
           p=".8rem"
         >
-          <Link href="/" passHref>
+          /*<Link href="/" passHref>
             <Flex as="a" sx={{ alignItems: "center", flexDirection: "column" }}>
               <Flex sx={{ alignItems: "center" }}>
                 <Text as="h1" variant="headingSpecial" ml=".4rem">
@@ -70,7 +70,7 @@ const Header = ({ farmId, setFarmId }: Props) => {
           >
             &nbsp;&nbsp;&nbsp;&#8226;&nbsp;
             {process.env.NEXT_PUBLIC_CONNECTION_NETWORK}
-          </Text>
+          </Text>*/
 
           <Flex
             as="nav"
