@@ -54,10 +54,7 @@ const StakePage = () => {
       <img sx={{ maxHeight: "20rem", }} src="/images/logo2.png" alt="Gemworks" />
         {/*<Heading>Your staking account</Heading>
         <Text>Below you can stake, unstake and collect rewards.</Text>*/}
-<WalletManager />
-        {!publicKey ? (
-          /** Render nothing if there is no wallet connected. */
-          <Text
+<Text
             sx={{
               textAlign: "center",
               margin: "3.2rem 0",
@@ -65,6 +62,10 @@ const StakePage = () => {
           >
             Connect your wallet to access the vault.
           </Text>
+<WalletManager />
+        {!publicKey ? (
+          /** Render nothing if there is no wallet connected. */
+          
       
         ) : !farmerAccount ? (
           // <LoadingIcon
