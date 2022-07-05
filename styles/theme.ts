@@ -60,7 +60,7 @@ const theme: Theme = {
     primary: {
       display: "flex",
       color: "heading",
-      background: (theme) => theme.colors?.primaryGradient,
+      background: transparent,
       border: "1px solid transparent",
       transition: "all .125s linear",
       alignItems: "center",
