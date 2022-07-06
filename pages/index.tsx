@@ -122,7 +122,7 @@ padding: "1.6rem 4rem",
 
             }}
           >
-            TVL $USD
+            My Vaulted Lollipops $USD
           </Text>
             
           </Flex>
