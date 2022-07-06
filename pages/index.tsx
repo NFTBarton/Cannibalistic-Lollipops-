@@ -59,7 +59,6 @@ const StakePage = () => {
               textAlign: "center",
                background: "#14191d",
                flex-direction:"column",
-margin-inline:5px,
 border-radius:11px,
 min-width:200px,
 min-height:150px,
