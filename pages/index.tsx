@@ -54,19 +54,12 @@ const StakePage = () => {
       <img sx={{ maxHeight: "50rem", }} src="/images/logo2.png" alt="Gemworks" />
         {/*<Heading>Your staking account</Heading>
         <Text>Below you can stake, unstake and collect rewards.</Text>*/}
-<Flex
-            sx={{
-              textAlign: "center",
-              display:"flex",
 
-            }}
-          >
 <Flex
             sx={{
               textAlign: "center",
               margin: "3.2rem 3.2rem",
 background:"#159c4f",
-flexDirection: "column",
 marginInline:"5px",
 borderRadius:"11px",
 padding: "1.6rem 4rem",
@@ -93,39 +86,8 @@ padding: "1.6rem 4rem",
             STAKED IN VAULT
           </Text>
             
-          </Flex>
-<Flex
-         sx={{
-              textAlign: "center",
-              margin: "3.2rem 3.2rem",
-background:"#2477c5",
-flexDirection: "column",
-marginInline:"5px",
-borderRadius:"11px",
-padding: "1.6rem 1rem",
+          
 
-            }}
-          >
-<Text
-            sx={{
-              textAlign: "center",
-              margin: "1rem",
-
-            }}
-          >
-            $35,242
-          </Text>
-<Text
-            sx={{
-              textAlign: "center",
-              margin: "1rem 0",
-
-            }}
-          >
-            My Vaulted Lollipops $USD
-          </Text>
-            
-          </Flex>
 </Flex>
 <Text
             sx={{
