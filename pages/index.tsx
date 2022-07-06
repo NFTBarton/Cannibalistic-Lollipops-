@@ -51,7 +51,7 @@ const StakePage = () => {
           padding: "0 1.6rem",
         }}
       >
-      <img sx={{ maxHeight: "40rem", }} src="/images/logo2.png" alt="Gemworks" />
+      <img sx={{ maxHeight: "30rem", }} src="/images/logo2.png" alt="Gemworks" />
         {/*<Heading>Your staking account</Heading>
         <Text>Below you can stake, unstake and collect rewards.</Text>*/}
 <Text
