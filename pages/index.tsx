@@ -59,11 +59,8 @@ const StakePage = () => {
               textAlign: "center",
                background: "#14191d",
                flex-direction:"column",
-border-radius:11px,
-min-width:200px,
-min-height:150px,
-margin-top:10px,
-display:Flex,
+               border-radius:11px,
+
             }}
           >
             Connect your wallet to access the vault.
