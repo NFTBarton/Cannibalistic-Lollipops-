@@ -59,7 +59,7 @@ const StakePage = () => {
               textAlign: "center",
               margin: "3.2rem 0",
 background:"#14191d",
-border-radius:"11px",
+border-radius:"3.2rem 0",
 
 
             }}
