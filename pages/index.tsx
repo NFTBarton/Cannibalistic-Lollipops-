@@ -65,7 +65,7 @@ const StakePage = () => {
             sx={{
               textAlign: "center",
               margin: "3.2rem 0",
-background:"#14191d",
+background:"#159c4f",
 flexDirection: "column",
 marginInline:"5px",
 borderRadius:"11px",
@@ -97,7 +97,7 @@ borderRadius:"11px",
          sx={{
               textAlign: "center",
               margin: "3.2rem 0",
-background:"#14191d",
+background:"#f5ed32",
 flexDirection: "column",
 marginInline:"5px",
 borderRadius:"11px",
