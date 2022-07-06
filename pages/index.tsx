@@ -68,7 +68,7 @@ const StakePage = () => {
 background:"#14191d",
 flexDirection: "column",
 marginInline:"5px",
-
+borderRadius:"11px",
 
 
             }}
