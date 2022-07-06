@@ -69,7 +69,7 @@ background:"#159c4f",
 flexDirection: "column",
 marginInline:"5px",
 borderRadius:"11px",
-padding: "0 2rem",
+padding: "1.6rem 2rem",
 
 
             }}
@@ -102,7 +102,7 @@ background:"#2477c5",
 flexDirection: "column",
 marginInline:"5px",
 borderRadius:"11px",
-padding: "0 4rem",
+padding: "1.6rem 4rem",
 
             }}
           >
