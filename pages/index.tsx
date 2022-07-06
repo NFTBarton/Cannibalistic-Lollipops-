@@ -92,6 +92,7 @@ flexDirection: "column",
           </Text>
             
           </Flex>
+<Flex
          sx={{
               textAlign: "center",
               margin: "3.2rem 0",
