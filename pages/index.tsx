@@ -63,6 +63,7 @@ background:"#159c4f",
 marginInline:"5px",
 borderRadius:"11px",
 padding: "1.6rem 4rem",
+flexDirection: "column",
 
 
             }}
