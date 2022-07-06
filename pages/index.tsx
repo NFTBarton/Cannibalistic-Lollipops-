@@ -92,6 +92,36 @@ flexDirection: "column",
           </Text>
             
           </Flex>
+         sx={{
+              textAlign: "center",
+              margin: "3.2rem 0",
+background:"#14191d",
+flexDirection: "column",
+
+
+
+            }}
+          >
+<Text
+            sx={{
+              textAlign: "center",
+              margin: "1rem",
+
+            }}
+          >
+            $35 242
+          </Text>
+<Text
+            sx={{
+              textAlign: "center",
+              margin: "1rem 0",
+
+            }}
+          >
+            TVL $USD
+          </Text>
+            
+          </Flex>
 </Flex>
 <Text
             sx={{
