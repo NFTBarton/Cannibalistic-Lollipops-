@@ -102,7 +102,7 @@ background:"#2477c5",
 flexDirection: "column",
 marginInline:"5px",
 borderRadius:"11px",
-padding: "0 1.6rem",
+padding: "0 4rem",
 
             }}
           >
@@ -113,7 +113,7 @@ padding: "0 1.6rem",
 
             }}
           >
-            $35 242
+            $35,242
           </Text>
 <Text
             sx={{
