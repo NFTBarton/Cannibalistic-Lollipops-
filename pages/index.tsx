@@ -57,6 +57,22 @@ const StakePage = () => {
 <Text
             sx={{
               textAlign: "center",
+               background: "#14191d",
+               flex-direction:"column",
+margin-inline:5px,
+padding: 0 10px,
+border-radius:11px,
+min-width:200px,
+min-height:150px,
+margin-top:10px,
+display:Flex,
+            }}
+          >
+            Connect your wallet to access the vault.
+          </Text>
+<Text
+            sx={{
+              textAlign: "center",
               margin: "3.2rem 0",
             }}
           >
