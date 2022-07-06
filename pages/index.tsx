@@ -54,7 +54,7 @@ const StakePage = () => {
       <img sx={{ maxHeight: "50rem", }} src="/images/logo2.png" alt="Gemworks" />
         {/*<Heading>Your staking account</Heading>
         <Text>Below you can stake, unstake and collect rewards.</Text>*/}
-<Text
+<Flex
             sx={{
               textAlign: "center",
               margin: "3.2rem 0",
@@ -63,8 +63,17 @@ background:"#14191d",
 
             }}
           >
+<Text
+            sx={{
+              textAlign: "center",
+              margin: "3.2rem 0",
+
+            }}
+          >
             Connect your wallet to access the vault.
           </Text>
+            
+          </Flex>
 <Text
             sx={{
               textAlign: "center",
