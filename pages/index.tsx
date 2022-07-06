@@ -68,7 +68,7 @@ flexDirection: "column",
 <Text
             sx={{
               textAlign: "center",
-              margin: "3.2rem 0",
+              margin: "1rem",
 
             }}
           >
@@ -77,7 +77,7 @@ flexDirection: "column",
 <Text
             sx={{
               textAlign: "center",
-              margin: "3.2rem 0",
+              margin: "1rem 0",
 
             }}
           >
