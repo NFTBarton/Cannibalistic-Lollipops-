@@ -69,6 +69,7 @@ background:"#159c4f",
 flexDirection: "column",
 marginInline:"5px",
 borderRadius:"11px",
+padding: "0 1.6rem",
 
 
             }}
@@ -101,6 +102,7 @@ background:"#2477c5",
 flexDirection: "column",
 marginInline:"5px",
 borderRadius:"11px",
+padding: "0 1.6rem",
 
             }}
           >
