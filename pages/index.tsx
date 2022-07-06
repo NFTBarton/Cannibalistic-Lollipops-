@@ -64,7 +64,7 @@ const StakePage = () => {
 <Flex
             sx={{
               textAlign: "center",
-              
+              margin: "3.2rem 0",
 background:"#159c4f",
 flexDirection: "column",
 marginInline:"5px",
