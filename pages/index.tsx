@@ -71,7 +71,16 @@ border-radius:"3.2rem 0",
 
             }}
           >
-            Connect your wallet to access the vault.
+            3509
+          </Text>
+<Text
+            sx={{
+              textAlign: "center",
+              margin: "3.2rem 0",
+
+            }}
+          >
+            STAKED IN VAULT
           </Text>
             
           </Flex>
