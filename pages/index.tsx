@@ -57,6 +57,13 @@ const StakePage = () => {
 <Flex
             sx={{
               textAlign: "center",
+              display:"flex",
+
+            }}
+          >
+<Flex
+            sx={{
+              textAlign: "center",
               margin: "3.2rem 0",
 background:"#14191d",
 flexDirection: "column",
@@ -85,6 +92,7 @@ flexDirection: "column",
           </Text>
             
           </Flex>
+</Flex>
 <Text
             sx={{
               textAlign: "center",
