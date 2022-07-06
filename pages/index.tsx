@@ -97,7 +97,9 @@ borderRadius:"11px",
          sx={{
               textAlign: "center",
               margin: "3.2rem 0",
-background:"#f5ed32",
+background:"#2477c5
+
+",
 flexDirection: "column",
 marginInline:"5px",
 borderRadius:"11px",
