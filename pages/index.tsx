@@ -69,7 +69,7 @@ background:"#159c4f",
 flexDirection: "column",
 marginInline:"5px",
 borderRadius:"11px",
-padding: "1.6rem 2rem",
+padding: "1.6rem 4rem",
 
 
             }}
