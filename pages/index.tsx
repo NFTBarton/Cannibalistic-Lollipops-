@@ -97,7 +97,7 @@ padding: "0 1.6rem",
 <Flex
          sx={{
               textAlign: "center",
-              margin: "3.2rem 0",
+              margin: "3.2rem 3.2rem",
 background:"#2477c5",
 flexDirection: "column",
 marginInline:"5px",
